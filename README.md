@@ -5,20 +5,20 @@ Example:
 
 Folders:
 
-folderA
-folderB
-folderC
+  * folderA
+  * folderB
+  * folderC
 
 enumeration-config.txt:
 
-folderB
-folderA
-folderC
+  * folderB
+  * folderA
+  * folderC
 
 output:
-1-folderA
-2-folderB
-3-folderC
+  * 1-folderA
+  * 2-folderB
+  * 3-folderC
 
 If the application is run without an existing enumeration-config.txt file, it is automatically generated. 
 
